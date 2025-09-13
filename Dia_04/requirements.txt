@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+requests
+qrcode
+dash-bootstrap-components
+plotly.express
+DateTime
+openpyxl
+ipywidgets
