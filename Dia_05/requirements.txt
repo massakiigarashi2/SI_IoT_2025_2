@@ -1,0 +1,11 @@
+streamlit
+requests
+Flask
+dash
+plotly
+pandas
+os
+requests
+pandas
+matplot
+ipywidgets
