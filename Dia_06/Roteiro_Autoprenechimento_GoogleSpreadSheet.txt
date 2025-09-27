@@ -1,0 +1,15 @@
+viewformusp=pp_url&entry
+Subistituir por
+formResponse?&submit=Submit?usp=pp_url&entry
+
+https://docs.google.com/forms/d/e/1FAIpQLSf0DGncBYg6IJwhoB0PEX4PIh1XsZj1OUcVpGKHGoSgDNgN1w/viewform?usp=pp_url&entry.1518093638=TEMP&entry.1621899341=UMID&entry.1262249026=BTN&entry.1332691306=ALRM
+
+https://docs.google.com/forms/d/e/1FAIpQLSf0DGncBYg6IJwhoB0PEX4PIh1XsZj1OUcVpGKHGoSgDNgN1w/formResponse?&submit=Submit?usp=pp_url&entry.1518093638=TEMP
+&entry.1621899341=UMID
+&entry.1262249026=BTN
+&entry.1332691306=ALRM
+
+https://docs.google.com/forms/d/e/1FAIpQLSf0DGncBYg6IJwhoB0PEX4PIh1XsZj1OUcVpGKHGoSgDNgN1w/formResponse?&submit=Submit?usp=pp_url&entry.1518093638=25.0
+&entry.1621899341=75.0
+&entry.1262249026=0
+&entry.1332691306=0
